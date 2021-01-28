@@ -1,5 +1,5 @@
 .mynewcard{
-    margin: 50px;
+    margin: 40px;
 }
 .card-header{
     display: flex;
@@ -27,7 +27,6 @@
     margin-top: 10px;
     align-items: center;
     background-color: rgb(152, 224, 233);
-    justify-content: center;
 }
 .Project6{
     align-items: center;
