@@ -1,0 +1,49 @@
+.mystyle{
+    margin-top: 14vh;
+}
+.card-header{
+    background-color: rgb(187, 196, 187);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.username{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+.password{
+    margin-top: 10px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 17px;    
+}
+
+.login-footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login-footer>.row>a{
+    text-decoration: none;
+    color:gold;
+}
+.login-footer>.row>a:hover{
+    text-decoration: none;
+    color:rgba(31, 218, 218, 0.384);
+}
+
+.mybtn{
+    background-color: goldenrod;
+    border-color: black;
+    width: 300px;
+}
+.mybtn:hover{
+    border-color: goldenrod;
+    background-color: black;
+    width: 300px;
+}
+.btnrow{
+    display: flex;
+    justify-content: center;
+}

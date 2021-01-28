@@ -1,0 +1,37 @@
+.mynewcard{
+    margin: 50px;
+}
+.card-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Project1{
+    align-items: center;
+    background-color: rgb(248, 210, 226);
+}
+.Project2{
+    align-items: center;
+    background-color: rgb(217, 217, 228);
+}
+.Project3{
+    align-items: center;
+    background-color: rgba(190, 201, 193, 0.973);
+}
+.Project4{
+    margin-top: 10px;
+    align-items: center;
+    background-color: rgb(243, 231, 231);
+}
+.Project5{
+    margin-top: 10px;
+    align-items: center;
+    background-color: rgb(152, 224, 233);
+    justify-content: center;
+}
+.Project6{
+    align-items: center;
+    background-color:rgb(233, 173, 173);
+    margin-top: 10px; 
+    
+}

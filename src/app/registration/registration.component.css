@@ -1,0 +1,80 @@
+.mystyle{
+    margin-top: 2vh;
+    background-position: center;
+    background-size: cover;
+}
+.card-header{
+    background-color:snow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-style:bold;
+    font-family:monospace;
+}
+
+
+.registration-footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:blanchedalmond;    
+}
+.card-body{
+    display: flex;
+    flex-direction:column;
+    padding: 5px;
+    max-width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:white;
+} 
+
+.registration-footer>.row>a{
+    text-decoration: none;
+    color:black;
+}
+.registration-footer>.row>a:hover{
+    text-decoration: none;
+    color:violet;
+}
+.fcm{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    margin: 15px 0px;
+}
+.fname{
+    border: blue;
+}
+.fname>.label>.input{
+    border: 10px sandybrown;
+}
+
+.contact>.label{
+    width: auto;
+    height: 30px;
+    justify-content: space-around;
+    margin: 15px;
+    
+}
+.mynew{
+    width: 100%;
+    max-width: 550px;
+}
+.myrow{
+    margin: 10px 0px;
+}
+.mybtn{
+    background-color: goldenrod;
+    border-color: black;
+    width: 300px;
+}
+.mybtn:hover{
+    border-color: goldenrod;
+    background-color: black;
+    width: 300px;
+}
+.btnrow{
+    display: flex;
+    justify-content: center;
+}
